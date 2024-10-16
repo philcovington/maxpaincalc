@@ -1,2 +1,6 @@
 venv/
 __pycache__/
+schwab_config.ini
+maxpain-436613-be003f817be0.json
+schwab-token.json
+maxpain_results.txt
